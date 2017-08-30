@@ -1,5 +1,5 @@
-# connect
-Connect Game
+# Connect 4
+Connect 4 Game
 
 These java files were designed and programmed by Jeffrey Ajiri Osauzo at the University of Manitoba.
 
