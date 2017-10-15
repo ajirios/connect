@@ -1,7 +1,5 @@
 # Connect 4
-Connect 4 Game
-
-These java files were designed and programmed by Jeffrey Ajiri Osauzo at the University of Manitoba.
+Connect 4 game project for desktop.
 
 To compile and run them with your code on any Unix computer, please make sure that XCode is installed as well as Java 1.6. Then, complete the following steps exactly:
 
